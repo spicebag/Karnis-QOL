@@ -1,5 +1,3 @@
-//This mod got denied by the modding group cause of "blank code", offered to fix it and it got called pointless.
-//Back to VRChat I go!
 using ABI_RC.Core.Savior;
 using MelonLoader;
 using System;
